@@ -1,5 +1,7 @@
 # Cancer Risk Factors Analysis (Excel & Power BI)
 
+![Image](https://github.com/user-attachments/assets/07432885-5f9b-4230-be9a-ce95dc4c5f51)
+
 ## Project Summary
 This project analyzes cancer risk across five cancer types—Breast, Lung, Colon, Prostate, and Skin—using simulated patient-level data. The analysis applies descriptive statistics and correlation analysis to explore how demographic, lifestyle, dietary, and environmental factors relate to overall cancer risk.
 
